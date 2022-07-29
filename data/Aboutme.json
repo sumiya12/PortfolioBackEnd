@@ -1,0 +1,44 @@
+{
+    "firstName": "Sumiya ",
+    "lastName": "Bat-Ulzii",
+    "bio": "Hello! I'm Sumiya. I'm a Full stack web developer. I studied software engineer at UbUniversity, I enjoy long walks on the Street, and I like to say What is life, Without a little RISK? You should hire me!",
+    "skills": {
+        "proficientWith": [
+            "javascript",
+            "react",
+            "typescript",
+            "git",
+            "github",
+            "bootstrap",
+            "html5",
+            "css3"
+        ],
+        "exposedTo": [
+            "nodejs",
+            "expressjs",
+            "mongoDb"
+        ]
+    },
+    "hobbies": [
+        {
+            "label": "reading",
+            "emoji": "📖"
+        },
+        {
+            "label": "comedy",
+            "emoji": "🎭"
+        },
+        {
+            "label": "movies",
+            "emoji": "🎥"
+        },
+        {
+            "label": "cooking",
+            "emoji": "🌶"
+        },
+        {
+            "label": "stake",
+            "emoji": "⛸️"
+        }
+    ]
+}

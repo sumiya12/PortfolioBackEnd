@@ -1,0 +1,47 @@
+{
+  "firstName": "Sumiya ",
+  "lastName": "Bat-Ulzii",
+  "initials": "Portfolio", 
+  "position": "a Full Stack Web Developer",
+  "minibio": [
+    {
+        "emoji": "☕",
+        "text": "fueled by coffee"
+    },
+    {
+        "emoji": "🌎",
+        "text": "based in the Ulaanbaatar"
+    },
+    {
+        "emoji": "💼",
+        "text": "mstars academy student"
+    },
+    {
+        "emoji": "📧",
+        "text": "sumiya.udval@gmail.com"
+    }
+],
+"socials": [
+  {
+    "link": "https://facebook.com/Sumiya03",
+    "icon": "fa fa-facebook"
+  },
+  {
+    "link": "https://instagram.com/sumiya_199",
+    "icon": "fa fa-instagram"
+  },
+  {
+    "link": "https://github.com/sumiya12",
+    "icon": "fa fa-github"
+  },
+  {
+    "link": "https://linkedin.com/in/sumiya-batulzii-a7b805245/",
+    "icon": "fa fa-linkedin"
+  },
+  {
+    "link": "https://twitter.com/Sumya91",
+    "icon": "fa fa-twitter"
+  }
+
+]
+}
